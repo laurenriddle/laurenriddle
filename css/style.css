@@ -660,6 +660,9 @@ a.active {
 .animatedModalFour-on .close-popup-modal {
     opacity: 1;
 }
+.animatedModalFive-on .close-popup-modal {
+    opacity: 1;
+}
 
 
 .modal-content h2 {

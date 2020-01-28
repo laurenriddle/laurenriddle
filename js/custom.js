@@ -107,6 +107,8 @@ $(document).ready(function () {
     $("#demo01").animatedModal();
     $("#demo03").animatedModalTwo();
     $("#demo04").animatedModalFour();
+    $("#demo05").animatedModalFive();
+
 
 
     // Contact Form 	

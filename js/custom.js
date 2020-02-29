@@ -109,6 +109,7 @@ $(document).ready(function () {
     $("#demo04").animatedModalFour();
     $("#demo05").animatedModalFive();
     $("#demo06").animatedModalSix();
+    $("#demo07").animatedModalSeven();
 
 
 

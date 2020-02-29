@@ -669,6 +669,9 @@ a.active {
 .animatedModalSeven-on .close-popup-modal {
     opacity: 1;
 }
+.animatedModalEight-on .close-popup-modal {
+    opacity: 1;
+}
 
 
 .modal-content h2 {

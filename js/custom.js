@@ -110,6 +110,7 @@ $(document).ready(function () {
     $("#demo05").animatedModalFive();
     $("#demo06").animatedModalSix();
     $("#demo07").animatedModalSeven();
+    $("#demo08").animatedModalEight();
 
 
 

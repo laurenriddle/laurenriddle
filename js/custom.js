@@ -111,6 +111,7 @@ $(document).ready(function () {
     $("#demo06").animatedModalSix();
     $("#demo07").animatedModalSeven();
     $("#demo08").animatedModalEight();
+    $("#demo09").animatedModalNine();
 
 
 

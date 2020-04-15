@@ -688,10 +688,12 @@ a.active {
 
 .live-demo {
     color: #FEDA6A;
+    font-weight: bolder;
 }
 
 .live-demo:hover {
     color: #425BB5;
+    font-weight: bolder;
 }
 
 /* contact

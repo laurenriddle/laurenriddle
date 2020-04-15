@@ -919,10 +919,11 @@ fieldset {
     background-color: #425BB5; 
     -webkit-box-shadow: 0px 10px 20px 0px rgba(66, 91, 181, 0.555);
     box-shadow: 0px 10px 20px 0px rgba(66, 91, 181, 0.555);
-    /* -webkit-transition: all 0.3s linear; */
-    /* box-sizing: border-box; */
-    /* margin-bottom: 40px; */
+    -webkit-transition: all 0.3s linear;
+    box-sizing: border-box;
+    margin-bottom: 40px;
     margin: 40px;
+    color: white;
 }
 .cardcontent {
     padding: 40px;

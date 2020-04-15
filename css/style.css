@@ -675,6 +675,9 @@ a.active {
 .animatedModalNine-on .close-popup-modal {
     opacity: 1;
 }
+.animatedModalTen-on .close-popup-modal {
+    opacity: 1;
+}
 
 
 .modal-content h2 {
@@ -683,6 +686,13 @@ a.active {
     line-height: 50px;
 }
 
+.live-demo {
+    color: #FEDA6A;
+}
+
+.live-demo:hover {
+    color: #425BB5;
+}
 
 /* contact
 ==================================================*/

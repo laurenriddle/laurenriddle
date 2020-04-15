@@ -112,6 +112,7 @@ $(document).ready(function () {
     $("#demo07").animatedModalSeven();
     $("#demo08").animatedModalEight();
     $("#demo09").animatedModalNine();
+    $("#demo10").animatedModalTen();
 
 
 

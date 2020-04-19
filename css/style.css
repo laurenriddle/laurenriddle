@@ -883,6 +883,14 @@ fieldset {
     }
 }
 
+.sub-header {
+    color: #425BB5;
+}
+
+.emoji {
+    font-size: 20px;
+}
+
 .link {
     font-size: medium;
     flex-basis: 70%;

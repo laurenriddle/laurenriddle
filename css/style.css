@@ -978,3 +978,12 @@ font-size: medium;
     margin-right: 0!important;
 
 }
+
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 15px;
+    background-color: #fff;
+    padding-bottom: 20px;
+}

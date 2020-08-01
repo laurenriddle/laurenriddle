@@ -1,5 +1,5 @@
 # Hi there, I'm Lauren!
-![ Lauren ](https://raw.githubusercontent.com/laurenriddle/laurenriddle/master/LaurenB&W.png.png)
+![ Lauren ](https://raw.githubusercontent.com/laurenriddle/laurenriddle/master/LaurenB&W.png)
 
 I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. When I'm not coding, I enjoy reading a good book, drawing and painting, writing, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find! <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
 

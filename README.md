@@ -8,6 +8,7 @@ Before software development, I attended college for Computer Networking, while w
 
 However, during college, I took a few programming classes and they really sparked my interest, making me realise that I absolutely loved coding. Fast forward a year and I had graduated college, that's when a friend told me more about Nashville Software School's Web Development Bootcamp. It sounded like an amazing opportunity to learn about
 something I love and turn it into a career that I would enjoy for a lifetime, so I took the plunge and enrolled in the program. <br>
+
 I have loved every minute that I've spent programming ever since. I love how software development allows me to practicing problem
 solving, collaborate with teammates and build relationships, constantly learn new things, and of course, write code and build applications!
 Coding is exactly where I need to be.

@@ -1,7 +1,7 @@
 # Hi there, I'm Lauren!
-![ Logo ](./img/readme/Lauren.png)
+![ Lauren ](./img/readme/Lauren.jpeg)
 
-I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. When I'm not coding, I enjoy reading a good book, listening to music, drawing and painting, writing, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find. <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
+I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. When I'm not coding, I enjoy reading a good book, drawing and painting, writing, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find. <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
 
 ## About Me 
 Before software development, I attended college for Computer Networking, while working as an Administrative Assistant. I have always been the person that everyone in my family comes to for their technological needs and I love the challenge of figuring out why a computer isn't working properly. Because of this, I thought I wanted to spend my life troubleshooting hardware and software computer issues.<br>

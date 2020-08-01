@@ -1,17 +1,12 @@
 # Hi there, I'm Lauren!
 ![ Lauren ](https://raw.githubusercontent.com/laurenriddle/laurenriddle/master/LaurenB&W.png)
 
-I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. When I'm not coding, I enjoy reading a good book, drawing and painting, writing, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find! <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
+I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. 
 
-## My Story 
-Before software development, I attended college for Computer Networking, while working as an Administrative Assistant. I have always been the person that everyone in my family comes to for their technological needs and I love the challenge of figuring out why a computer isn't working properly. Because of this, I thought I wanted to spend my life troubleshooting hardware and software computer issues.<br>
+A couple years ago, I wrote my first line of code for a class I was taking in college and I was immediately hooked. Fast forward a couple years, and I enrolled in Nashville Software School's full time software development bootcamp. I have enjoyed every minute that I've spent programming ever since. I love how software development allows me to practicing problem
+solving, collaborate with teammates and build relationships, constantly learn new things, and of course, write code and build applications! Coding is exactly where I need to be.
 
-However, during college, I took a few programming classes and they really sparked my interest, making me realise that I absolutely loved coding. Fast forward a year and I had graduated college, that's when a friend told me more about Nashville Software School's Web Development Bootcamp. It sounded like an amazing opportunity to learn about
-something I love and turn it into a career that I would enjoy for a lifetime, so I took the plunge and enrolled in the program. <br>
-
-I have loved every minute that I've spent programming ever since. I love how software development allows me to practicing problem
-solving, collaborate with teammates and build relationships, constantly learn new things, and of course, write code and build applications!
-Coding is exactly where I need to be.
+When I'm not coding, I enjoy reading a good book, drawing and painting, writing, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find! <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
 
 ## What tech do I work with? 💻
 

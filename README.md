@@ -1,7 +1,7 @@
 # Hi there, I'm Lauren!
-![ Logo ](./img/readme/LaurenB&W.png)
+![ Logo ](./img/readme/Lauren.png)
 
-I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. When I'm not coding, I enjoy reading a good book, listening to music, drawing and painting, writing, spending quality time with my friends and family, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find. <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
+I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. When I'm not coding, I enjoy reading a good book, listening to music, drawing and painting, writing, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find. <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
 
 ## About Me 
 Before software development, I attended college for Computer Networking, while working as an Administrative Assistant. I have always been the person that everyone in my family comes to for their technological needs and I love the challenge of figuring out why a computer isn't working properly. Because of this, I thought I wanted to spend my life troubleshooting hardware and software computer issues.<br>
@@ -19,7 +19,7 @@ Coding is exactly where I need to be.
 
 <div align="center"><img src="./img/csharp.png" alt="csharp" width="75" height="75" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="./img/dotnetcore.png" alt="dotnet" width="75" height="75" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="./img/aspnetMVC.png" alt="aspnetMVC" width="75" height="75" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="./img/visualstudiocsharp.png" alt="visualstudiocsharp" width="75" height="85" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="./img/postman.png" alt="Postman" width="90" height="90"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="./img/vsc.png" alt="visualstudiocode" width="75" height="85"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="./img/bootstrap.png" alt="bootstrap" width="75" height="85"/></div>
 
-## Find Me Online 📱
+## Find Me Online 🌎
 
  - <a href="https://www.linkedin.com/in/lauren-riddle/">LinkedIn</a>
  - <a href="https://laurenriddle.github.io/laurenriddle/">Portfolio</a>

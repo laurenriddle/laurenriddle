@@ -3,7 +3,7 @@
 
 I am a Nashville based software engineer with a passion for problem solving and creating applications that make a difference in the lives of users. 
 
-A couple years ago, I wrote my first line of code for a class I was taking in college and I was immediately hooked. Fast forward a couple years, and I enrolled in Nashville Software School's full-time software development bootcamp. I have enjoyed every minute that I've spent programming ever since. I love how software development allows me to practicing problem
+A couple years ago, I wrote my first line of code for a class I was taking in college and I was immediately hooked. Fast forward a few more years, and I enrolled in Nashville Software School's full-time software development bootcamp. I have enjoyed every minute that I've spent programming ever since. I love how software development allows me to practicing problem
 solving, collaborate with teammates and build relationships, constantly learn new things, and of course, write code and build applications! Coding is exactly where I need to be.
 
 When I'm not programming, I enjoy reading a good book, drawing and painting, writing, watching a beautiful sunset, and trying Chai Lattes at every new coffee shop I can find! <span class="emoji">☕️☀️🦒📝🎶🎨📚</span><br/><br/>
